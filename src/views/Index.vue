@@ -111,19 +111,19 @@
                                                       </div>
                                                     </div>
                                                 </div>
-                                                <div class=" py-3 align-items-center">
-                                                    <div class=" mt-5 mt-sm-0 ml-5 ">
-                                                      <a href="https://medium.com/@fadelpamungkas/apa-itu-devops-26ef14157302" target="_blank" rel="noopener"
-                                                         data-toggle="tooltip">
-                                                      <h5 class="mb-0 font-weight-bold">Publish Vue app to Azure Static Web App with Custom Domains </h5>
-                                                      </a>
-                                                      <h6 class="mb-0">Medium • Jan, 2021</h6>
-                                                      <div class="mt-2">
-                                                          <badge type="primary" rounded>Azure Static Web App</badge>
-                                                          <badge type="primary" rounded>Vue Js</badge>
-                                                      </div>
-                                                    </div>
-                                                </div>
+<!--                                                <div class=" py-3 align-items-center">-->
+<!--                                                    <div class=" mt-5 mt-sm-0 ml-5 ">-->
+<!--                                                      <a href="https://medium.com/@fadelpamungkas/apa-itu-devops-26ef14157302" target="_blank" rel="noopener"-->
+<!--                                                         data-toggle="tooltip">-->
+<!--                                                      <h5 class="mb-0 font-weight-bold">Publish Vue app to Azure Static Web App with Custom Domains </h5>-->
+<!--                                                      </a>-->
+<!--                                                      <h6 class="mb-0">Medium • Jan, 2021</h6>-->
+<!--                                                      <div class="mt-2">-->
+<!--                                                          <badge type="primary" rounded>Azure Static Web App</badge>-->
+<!--                                                          <badge type="primary" rounded>Vue Js</badge>-->
+<!--                                                      </div>-->
+<!--                                                    </div>-->
+<!--                                                </div>-->
                                             </div>
                                             <div class=" py-5 border-top">
                                                 <h3 class="h4 text-primary font-weight-bold ml-5">Certifications</h3>
