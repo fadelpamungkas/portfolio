@@ -15,8 +15,8 @@
                                 <h3>Fadel Pamungkas
                                 </h3>
                                 <div class="h6 font-weight-light"><i class="ni location_pin mr-2"></i>fadelpamungkas3@gmail.com</div>
-                                <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Undergraduate Informatics Student</div>
-                                <div><i class="ni education_hat mr-2"></i>Universitas Islam Indonesia</div>
+<!--                                <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Undergraduate Informatics Student</div>-->
+<!--                                <div><i class="ni education_hat mr-2"></i>Universitas Islam Indonesia</div>-->
                             </div>
                         </div>
                         <div class="text-center">
@@ -87,12 +87,12 @@
                                                 <h3 class="h4 text-primary font-weight-bold ml-5">Education</h3>
                                                 <div class="row py-3 align-items-center">
                                                     <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
-                                                        <img v-lazy="'img/theme/UII - Biru.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                        <img v-lazy="'img/theme/UII - Biru.png'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                     </div>
                                                     <div class="col-sm-9">
-                                                      <h5 class="mb-0 font-weight-bold">Undergraduate Information Technology</h5>
-                                                      <h6 class="mb-0">Universitas Islam Indonesia • Yogyakarta, Indonesia</h6>
+                                                      <h5 class="mb-0 font-weight-bold">Undergraduate Informatics</h5>
+                                                      <h6 class="mb-0">Universitas Islam Indonesia • 2018 - Now</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -102,7 +102,7 @@
                                                     <div class=" mt-5 mt-sm-0 ml-5 ">
                                                       <a href="https://medium.com/@fadelpamungkas/apa-itu-devops-26ef14157302" target="_blank" rel="noopener"
                                                          data-toggle="tooltip">
-                                                      <h5 class="mb-0 font-weight-bold">Apa itu Amazon dan Amazon Web Service</h5>
+                                                      <h5 class="mb-0 font-weight-bold">Apa itu DevOps dan Amazon Web Service</h5>
                                                       </a>
                                                       <h6 class="mb-0">Medium • Dec, 2019</h6>
                                                       <div class="mt-2">
@@ -111,12 +111,68 @@
                                                       </div>
                                                     </div>
                                                 </div>
+                                                <div class=" py-3 align-items-center">
+                                                    <div class=" mt-5 mt-sm-0 ml-5 ">
+                                                      <a href="https://medium.com/@fadelpamungkas/apa-itu-devops-26ef14157302" target="_blank" rel="noopener"
+                                                         data-toggle="tooltip">
+                                                      <h5 class="mb-0 font-weight-bold">Publish Vue app to Azure Static Web App with Custom Domains </h5>
+                                                      </a>
+                                                      <h6 class="mb-0">Medium • Jan, 2021</h6>
+                                                      <div class="mt-2">
+                                                          <badge type="primary" rounded>Azure Static Web App</badge>
+                                                          <badge type="primary" rounded>Vue Js</badge>
+                                                      </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=" py-5 border-top">
+                                                <h3 class="h4 text-primary font-weight-bold ml-5">Certifications</h3>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/cisco.png'" alt="Raised image" class="img-fluid rounded "
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                    <h5 class="mb-0 font-weight-bold">Introduction to Cybersecurity</h5>
+                                                    <h6 class="mb-0">Cisco Networking Academy • Oct, 2020</h6>
+                                                    </div>
+                                                </div>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/cisco.png'" alt="Raised image" class="img-fluid rounded "
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                      <h5 class="mb-0 font-weight-bold">Cybersecurity Essentials </h5>
+                                                      <h6 class="mb-0">Cisco Networking Academy • Oct, 2020</h6>
+                                                    </div>
+                                                </div>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/dicoding.png'" alt="Raised image" class="img-fluid rounded "
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                    <h5 class="mb-0 font-weight-bold">Developing Microsoft Azure and Web Services</h5>
+                                                    <h6 class="mb-0">Dicoding Academy • Apr, 2019</h6>
+                                                    </div>
+                                                </div>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/dicoding.png'" alt="Raised image" class="img-fluid rounded "
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                      <h5 class="mb-0 font-weight-bold">Aplikasi Android untuk Pemula</h5>
+                                                      <h6 class="mb-0">Dicoding Academy • Dec, 2017</h6>
+                                                    </div>
+                                                </div>
                                             </div>
                                             <div class=" py-5 border-top">
                                                 <h3 class="h4 text-primary font-weight-bold ml-5">Volunteer</h3>
                                                 <div class="row py-3 align-items-center">
                                                     <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
-                                                        <img v-lazy="'img/theme/hmtf_logo.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                        <img v-lazy="'img/theme/hmtf_logo.png'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                     </div>
                                                     <div class="col-sm-9">
@@ -126,7 +182,7 @@
                                                 </div>
                                                 <div class="row py-3 align-items-center">
                                                     <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
-                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded shadow"
+                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                     </div>
                                                     <div class="col-sm-9">
@@ -136,7 +192,7 @@
                                                 </div>
                                                 <div class="row py-3 align-items-center">
                                                     <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
-                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded shadow"
+                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                     </div>
                                                     <div class="col-sm-9">
@@ -151,7 +207,7 @@
                                                     <div class="col-sm-3">
                                                         <div class="row py-3 align-items-center justify-content-center">
                                                             <div class="mt-5 mt-sm-0">
-                                                              <img v-lazy="'img/theme/androidstudio.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                              <img v-lazy="'img/theme/androidstudio.png'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                               <h5 class="mt-3">Android Studio</h5>
                                                             </div>
@@ -160,7 +216,7 @@
                                                     <div class="col-sm-3">
                                                         <div class="row py-3 align-items-center justify-content-center">
                                                             <div class="mt-5 mt-sm-0">
-                                                              <img v-lazy="'img/theme/kotlin.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                              <img v-lazy="'img/theme/kotlin.png'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                               <h5 class="mt-3">Kotlin</h5>
                                                             </div>
@@ -169,7 +225,7 @@
                                                     <div class="col-sm-3">
                                                         <div class="row py-3 align-items-center justify-content-center">
                                                             <div class="mt-5 mt-sm-0">
-                                                              <img v-lazy="'img/theme/java.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                              <img v-lazy="'img/theme/java.png'" alt="Raised image" class="img-fluid rounded "
                                                              style="width: 100px;">
                                                               <h5 class="mt-3">Java</h5>
                                                             </div>
@@ -184,57 +240,59 @@
                                                 <i class="ni ni-app mr-2"></i>Portfolio
                                             </template>
                                                 <div class="container">
-                                                    <h3 class="h4 text-primary font-weight-bold ml-4">Single Project</h3>
-                                                    <div class="row justify-content-center mt-5">
-                                                        <div class="col-lg-12">
-                                                            <div class="row row-grid">
-                                                                <div class="col-lg-4">
-                                                                    <card class="border-0" hover shadow body-classes="py-5">
-                                                                        <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
-                                                                        </icon>
-                                                                        <h6 class="text-primary text-uppercase">Movie Catalogue</h6>
-                                                                        <p class="description mt-3">Based on themoviedb.org API that uses RxJava for asynchronous fetching data and then Room Database to make it persistent for better experience. Built with full Java language.</p>
-                                                                        <div>
-                                                                            <badge type="primary" rounded>RxJava</badge>
-                                                                            <badge type="primary" rounded>Movie API</badge>
-                                                                            <badge type="primary" rounded>Room DB</badge>
-                                                                        </div>
-                                                                        <base-button tag="a" href="https://github.com/fadelpamungkas/MovieCatalogue" type="primary" class="mt-4">
-                                                                            See Github
-                                                                        </base-button>
-                                                                    </card>
-                                                                </div>
-                                                                <div class="col-lg-4">
-                                                                    <card class="border-0" hover shadow body-classes="py-5">
-                                                                        <icon name="ni ni-istanbul" type="primary" rounded class="mb-4">
-                                                                        </icon>
-                                                                        <h6 class="text-primary text-uppercase ">Atpic</h6>
-                                                                        <p class="description mt-3">E-commerce app that people may buy and sell digital products. Built with mixed Kotlin and Java language and Firebase for main component such as Database, Authentication, and Storage.</p>
-                                                                        <div>
-                                                                            <badge type="primary" rounded>Firebase</badge>
-                                                                            <badge type="primary" rounded>Kotlin</badge>
-                                                                            <badge type="primary" rounded>Java</badge>
-                                                                        </div>
-                                                                        <base-button tag="a" href="https://github.com/fadelpamungkas/Atpic" type="primary" class="mt-4">
-                                                                            See Github
-                                                                        </base-button>
-                                                                    </card>
-                                                                </div>
-                                                                <div class="col-lg-4">
-                                                                    <card class="border-0" hover shadow body-classes="py-5">
-                                                                        <icon name="ni ni-planet" type="primary" rounded class="mb-4">
-                                                                        </icon>
-                                                                        <h6 class="text-primary text-uppercase">Bitter</h6>
-                                                                        <p class="description mt-3">This is my ongoing personal project. Main purposes is to implement Spotify API and Jetpack Compose as a new Android modern library. Perhaps uses Kotlin for whole project.</p>
-                                                                        <div>
-                                                                            <badge type="primary" rounded>Spotify API</badge>
-                                                                            <badge type="primary" rounded>Kotlin</badge>
-                                                                            <badge type="primary" rounded>Room DB</badge>
-                                                                        </div>
-                                                                        <base-button tag="a" href="https://github.com/fadelpamungkas/Bitter" type="primary" class="mt-4">
-                                                                            See Github
-                                                                        </base-button>
-                                                                    </card>
+                                                    <div class="py-5">
+                                                        <h3 class="h4 text-primary font-weight-bold ml-4">Single Project</h3>
+                                                        <div class="row justify-content-center mt-5">
+                                                            <div class="col-lg-12">
+                                                                <div class="row row-grid">
+                                                                    <div class="col-lg-4">
+                                                                        <card class="border-0" hover shadow body-classes="py-5">
+                                                                            <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
+                                                                            </icon>
+                                                                            <h6 class="text-primary text-uppercase">Movie Catalogue</h6>
+                                                                            <p class="description mt-3">Based on themoviedb.org API that uses RxJava for asynchronous fetching data and then Room Database to make it persistent for better experience. Built with full Java language.</p>
+                                                                            <div>
+                                                                                <badge type="primary" rounded>RxJava</badge>
+                                                                                <badge type="primary" rounded>Movie API</badge>
+                                                                                <badge type="primary" rounded>Room DB</badge>
+                                                                            </div>
+                                                                            <base-button tag="a" href="https://github.com/fadelpamungkas/MovieCatalogue" type="primary" class="mt-4">
+                                                                                See Github
+                                                                            </base-button>
+                                                                        </card>
+                                                                    </div>
+                                                                    <div class="col-lg-4">
+                                                                        <card class="border-0" hover shadow body-classes="py-5">
+                                                                            <icon name="ni ni-istanbul" type="primary" rounded class="mb-4">
+                                                                            </icon>
+                                                                            <h6 class="text-primary text-uppercase ">Atpic</h6>
+                                                                            <p class="description mt-3">E-commerce app that people may buy and sell digital products. Built with mixed Kotlin and Java language and Firebase for main component such as Database, Authentication, and Storage.</p>
+                                                                            <div>
+                                                                                <badge type="primary" rounded>Firebase</badge>
+                                                                                <badge type="primary" rounded>Kotlin</badge>
+                                                                                <badge type="primary" rounded>Java</badge>
+                                                                            </div>
+                                                                            <base-button tag="a" href="https://github.com/fadelpamungkas/Atpic" type="primary" class="mt-4">
+                                                                                See Github
+                                                                            </base-button>
+                                                                        </card>
+                                                                    </div>
+                                                                    <div class="col-lg-4">
+                                                                        <card class="border-0" hover shadow body-classes="py-5">
+                                                                            <icon name="ni ni-planet" type="primary" rounded class="mb-4">
+                                                                            </icon>
+                                                                            <h6 class="text-primary text-uppercase">Bitter</h6>
+                                                                            <p class="description mt-3">This is my ongoing personal project. Main purposes is to implement Spotify API and Jetpack Compose as a new Android modern library. Perhaps uses Kotlin for whole project.</p>
+                                                                            <div>
+                                                                                <badge type="primary" rounded>Spotify API</badge>
+                                                                                <badge type="primary" rounded>Kotlin</badge>
+                                                                                <badge type="primary" rounded>Room DB</badge>
+                                                                            </div>
+                                                                            <base-button tag="a" href="https://github.com/fadelpamungkas/Bitter" type="primary" class="mt-4">
+                                                                                See Github
+                                                                            </base-button>
+                                                                        </card>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
