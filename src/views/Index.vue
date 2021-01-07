@@ -12,9 +12,9 @@
                         </div>
                         <div class=" text-center">
                             <div class="card-profile-actions pt-150">
-                                <h3>Fadel Pamungkas, 20
+                                <h3>Fadel Pamungkas
                                 </h3>
-                                <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>Indonesian</div>
+                                <div class="h6 font-weight-light"><i class="ni location_pin mr-2"></i>fadelpamungkas3@gmail.com</div>
                                 <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Undergraduate Informatics Student</div>
                                 <div><i class="ni education_hat mr-2"></i>Universitas Islam Indonesia</div>
                             </div>
@@ -26,20 +26,36 @@
                                        data-toggle="tooltip">
                                         <i class="fa fa-linkedin"></i>
                                     </a>
-                                    <span class="description">fadelpamungkas</span>
+                                    <span class="description">Linkedin</span>
                                 </div>
                                 <div>
-                                    <a class="nav-link nav-link-icon">
-                                        <i class="fa fa-envelope"></i>
+                                    <a class="nav-link nav-link-icon" href="https://github.com/fadelpamungkas" target="_blank" rel="noopener"
+                                       data-toggle="tooltip">
+                                        <i class="fa fa-github"></i>
                                     </a>
-                                    <span class="description">fadelpamungkas3@gmail.com</span>
+                                    <span class="description">Github</span>
+                                </div>
+                                <div>
+                                    <a class="nav-link nav-link-icon" href="https://medium.com/@fadelpamungkas" target="_blank" rel="noopener"
+                                       data-toggle="tooltip">
+                                        <i class="fa fa-medium"></i>
+                                    </a>
+                                    <span class="description">Medium</span>
+                                </div>
+                                <div>
+                                    <a class="nav-link nav-link-icon" href="https://twitter.com/fadelpamunqkas" target="_blank" rel="noopener"
+                                       data-toggle="tooltip">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                    <span class="description">Twitter</span>
                                 </div>
                             </div>
                         </div>
                         <div class=" py-5 border-top text-center">
                             <div class="row justify-content-center">
                                 <div class="col-lg-9">
-                                    <p>Interest in Android development with Java and Kotlin as main languages. Also have some basic in cybersecurity and cloud computing.</p>
+                                    <p>Interest in Android development with Java and Kotlin as main languages. Currently has an ongoing kotlin-based android project to implement jetpack compose architecture and another newest libraries from Android official.
+                                      Also have some basic in cybersecurity and cloud computing.</p>
                                 </div>
                             </div>
                         </div>
@@ -53,21 +69,21 @@
                                             <template slot="title">
                                                 <i class="ni ni-book-bookmark mr-2"></i>Resume
                                             </template>
-                                            <div>
-                                                <h3 class="h4 text-primary font-weight-bold ml-5">Experience</h3>
-                                                <div class="row py-3 align-items-center">
-                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
-                                                        <img v-lazy="'img/theme/team-3-800x800.jpg'" alt="Raised image" class="img-fluid rounded shadow-lg"
-                                                             style="width: 100px;">
-                                                    </div>
-                                                    <div class="col-sm-9">
-                                                      <h5 class="mb-0 font-weight-bold">Experience 1</h5>
-                                                      <p class="text-muted">4 years • Yogyakarta, Indonesia</p>
-                                                      <p>dsadjnasdksandksndskadnsakdnadnak</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class=" py-5 border-top">
+                                            <div class="py-5">
+<!--                                                <h3 class="h4 text-primary font-weight-bold ml-5">Experience</h3>-->
+<!--                                                <div class="row py-3 align-items-center">-->
+<!--                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">-->
+<!--                                                        <img v-lazy="'img/theme/team-3-800x800.jpg'" alt="Raised image" class="img-fluid rounded shadow-lg"-->
+<!--                                                             style="width: 100px;">-->
+<!--                                                    </div>-->
+<!--                                                    <div class="col-sm-9">-->
+<!--                                                      <h5 class="mb-0 font-weight-bold">Experience 1</h5>-->
+<!--                                                      <p class="text-muted">4 years • Yogyakarta, Indonesia</p>-->
+<!--                                                      <p>Description</p>-->
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                            <div class=" py-5 border-top">-->
                                                 <h3 class="h4 text-primary font-weight-bold ml-5">Education</h3>
                                                 <div class="row py-3 align-items-center">
                                                     <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
@@ -80,8 +96,57 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class=" py-5 border-top">
+                                                <h3 class="h4 text-primary font-weight-bold ml-5">Publication</h3>
+                                                <div class=" py-3 align-items-center">
+                                                    <div class=" mt-5 mt-sm-0 ml-5 ">
+                                                      <a href="https://medium.com/@fadelpamungkas/apa-itu-devops-26ef14157302" target="_blank" rel="noopener"
+                                                         data-toggle="tooltip">
+                                                      <h5 class="mb-0 font-weight-bold">Apa itu Amazon dan Amazon Web Service</h5>
+                                                      </a>
+                                                      <h6 class="mb-0">Medium • Dec, 2019</h6>
+                                                      <div class="mt-2">
+                                                          <badge type="primary" rounded>DevOps</badge>
+                                                          <badge type="primary" rounded>Amazon AWS</badge>
+                                                      </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=" py-5 border-top">
+                                                <h3 class="h4 text-primary font-weight-bold ml-5">Volunteer</h3>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/hmtf_logo.png'" alt="Raised image" class="img-fluid rounded shadow"
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                      <h5 class="mb-0 font-weight-bold">Sekretaris Bidang Pengembangan Sumber Daya Mahasiswa</h5>
+                                                      <h6 class="mb-0">Himpunan Mahasiswa Teknik Informatika • 2019 - 2020</h6>
+                                                    </div>
+                                                </div>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded shadow"
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                      <h5 class="mb-0 font-weight-bold">Koordinator Publikasi dan Dokumentasi</h5>
+                                                      <h6 class="mb-0">PORSEMATIF • 2019</h6>
+                                                    </div>
+                                                </div>
+                                                <div class="row py-3 align-items-center">
+                                                    <div class="col-sm-3 col-6 mt-5 mt-sm-0 text-center">
+                                                        <img v-lazy="'img/theme/porsematif.svg'" alt="Raised image" class="img-fluid rounded shadow"
+                                                             style="width: 100px;">
+                                                    </div>
+                                                    <div class="col-sm-9">
+                                                      <h5 class="mb-0 font-weight-bold">Staff Ahli Publikasi, Dekorasi, dan Dokumentasi</h5>
+                                                      <h6 class="mb-0">INPUT • 2019</h6>
+                                                    </div>
+                                                </div>
+                                            </div>
                                             <div class=" py-5 border-top ">
-                                                <h3 class="h4 text-primary font-weight-bold ml-5">What I use to</h3>
+                                                <h3 class="h4 text-primary font-weight-bold ml-5">What I use</h3>
                                                 <div class="row text-center justify-content-center">
                                                     <div class="col-sm-3">
                                                         <div class="row py-3 align-items-center justify-content-center">
